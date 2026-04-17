@@ -96,7 +96,7 @@ Explore premium 2BHK, 3BHK & 4BHK flats in Mukherjee Nagar, GTB Nagar & Model To
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ashvik-buildcon.git
+https://herox21.github.io/Ashvik-Buildcon/
 ```
 
 2. Open `index.html` in your browser
